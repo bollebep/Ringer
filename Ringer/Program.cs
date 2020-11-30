@@ -6,7 +6,7 @@ namespace Ringer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World v1.0.0.1!");
         }
     }
 }
